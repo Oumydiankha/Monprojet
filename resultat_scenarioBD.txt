@@ -1,0 +1,225 @@
+scenario 0
+
+Packet size: 102, Requests: 10, Latency: 288.43us
+Distribution
+Packet size: 102, Requests: 100, Latency: 370.04us
+Distribution
+Packet size: 102, Requests: 500, Latency: 339.85us
+Distribution
+Packet size: 102, Requests: 1000, Latency: 347.08us
+Distribution
+Packet size: 102, Requests: 2000, Latency: 333.91us
+Distribution
+Packet size: 102, Requests: 4000, Latency: 293.21us
+Distribution
+Packet size: 102, Requests: 6000, Latency: 301.93us
+Distribution
+Packet size: 102, Requests: 8000, Latency: 268.85us
+Distribution
+Packet size: 102, Requests: 10000, Latency: 285.17us
+Distribution
+Packet size: 10240, Requests: 10, Latency: 283.40us
+Distribution
+Packet size: 10240, Requests: 100, Latency: 283.60us
+Distribution
+Packet size: 10240, Requests: 500, Latency: 267.76us
+Distribution
+Packet size: 10240, Requests: 1000, Latency: 296.75us
+Distribution
+Packet size: 10240, Requests: 2000, Latency: 289.62us
+Distribution
+Packet size: 10240, Requests: 4000, Latency: 300.56us
+Distribution
+Packet size: 10240, Requests: 6000, Latency: 266.14us
+Distribution
+Packet size: 10240, Requests: 8000, Latency: 284.35us
+Distribution
+Packet size: 10240, Requests: 10000, Latency: 271.78us
+Distribution
+Packet size: 51200, Requests: 10, Latency: 245.02us
+Distribution
+Packet size: 51200, Requests: 100, Latency: 264.71us
+Distribution
+Packet size: 51200, Requests: 500, Latency: 248.04us
+Distribution
+Packet size: 51200, Requests: 1000, Latency: 241.90us
+Distribution
+Packet size: 51200, Requests: 2000, Latency: 610.36us
+Distribution
+Packet size: 51200, Requests: 4000, Latency: 290.42us
+Distribution
+Packet size: 51200, Requests: 6000, Latency: 293.97us
+Distribution
+Packet size: 51200, Requests: 8000, Latency: 309.77us
+Distribution
+Packet size: 51200, Requests: 10000, Latency: 300.42us
+Distribution
+
+scenario 1
+Packet size: 102, Requests: 10, Latency: 106.33us
+Distribution
+Packet size: 102, Requests: 100, Latency: 101.17us
+Distribution
+Packet size: 102, Requests: 500, Latency: 106.36us
+Distribution
+Packet size: 102, Requests: 1000, Latency: 124.77us
+Distribution
+Packet size: 102, Requests: 2000, Latency: 117.06us
+Distribution
+Packet size: 102, Requests: 4000, Latency: 125.38us
+Distribution
+Packet size: 102, Requests: 6000, Latency: 158.39us
+Distribution
+Packet size: 102, Requests: 8000, Latency: 110.80us
+Distribution
+Packet size: 102, Requests: 10000, Latency: 128.08us
+Distribution
+Packet size: 10240, Requests: 10, Latency: 114.92us
+Distribution
+Packet size: 10240, Requests: 100, Latency: 116.42us
+Distribution
+Packet size: 10240, Requests: 500, Latency: 119.98us
+Distribution
+Packet size: 10240, Requests: 1000, Latency: 110,89us
+Distribution
+Packet size: 10240, Requests: 2000, Latency: 122.5us
+Distribution
+Packet size: 10240, Requests: 4000, Latency: 113.78us
+Distribution
+Packet size: 10240, Requests: 6000, Latency: 121.56us
+Distribution
+Packet size: 10240, Requests: 8000, Latency: 104.670us
+Distribution
+Packet size: 10240, Requests: 10000, Latency: 137.76us
+Distribution
+Packet size: 51200, Requests: 10, Latency: 116.30us
+Distribution
+Packet size: 51200, Requests: 100, Latency: 115.65us
+Distribution
+Packet size: 51200, Requests: 500, Latency: 125.09us
+Distribution
+Packet size: 51200, Requests: 1000, Latency: 103.23us
+Distribution
+Packet size: 51200, Requests: 2000, Latency: 120.34us
+Distribution
+Packet size: 51200, Requests: 4000, Latency: 136.87us
+Distribution
+Packet size: 51200, Requests: 6000, Latency: 118.08us
+Distribution
+Packet size: 51200, Requests: 8000, Latency: 119.1us
+Distribution
+Packet size: 51200, Requests: 10000, Latency: 114.67us
+Distribution
+
+scenario 2
+Packet size: 102, Requests: 10, Latency: 203.46us
+Distribution
+Packet size: 102, Requests: 100, Latency: 375.89us
+Distribution
+Packet size: 102, Requests: 500, Latency: 210.78us
+Distribution
+Packet size: 102, Requests: 1000, Latency: 231.89us
+Distribution
+Packet size: 102, Requests: 2000, Latency: 225.96us
+Distribution
+Packet size: 102, Requests: 4000, Latency: 207.49us
+Distribution
+Packet size: 102, Requests: 6000, Latency: 217.83us
+Distribution
+Packet size: 102, Requests: 8000, Latency: 212.14us
+Distribution
+Packet size: 102, Requests: 10000, Latency: 231.09us
+Distribution
+Packet size: 10240, Requests: 10, Latency: 158.90us
+Distribution
+Packet size: 10240, Requests: 100, Latency: 281.79us
+Distribution
+Packet size: 10240, Requests: 500, Latency: 231.89us
+Distribution
+Packet size: 10240, Requests: 1000, Latency: 193.67us
+Distribution
+Packet size: 10240, Requests: 2000, Latency: 257.90us
+Distribution
+Packet size: 10240, Requests: 4000, Latency: 312.76us
+Distribution
+Packet size: 10240, Requests: 6000, Latency: 151.70us
+Distribution
+Packet size: 10240, Requests: 8000, Latency: 304.3us
+Distribution
+Packet size: 10240, Requests: 10000, Latency: 101.09us
+Distribution
+Packet size: 51200, Requests: 10, Latency: 284.76us
+Distribution
+Packet size: 51200, Requests: 100, Latency: 247.08us
+Distribution
+Packet size: 51200, Requests: 500, Latency: 103.76us
+Distribution
+Packet size: 51200, Requests: 1000, Latency: 102.68us
+Distribution
+Packet size: 51200, Requests: 2000, Latency: 96.2us
+Distribution
+Packet size: 51200, Requests: 4000, Latency: 91.76us
+Distribution
+Packet size: 51200, Requests: 6000, Latency: 108.42us
+Distribution
+Packet size: 51200, Requests: 8000, Latency: 120.76us
+Distribution
+Packet size: 51200, Requests: 10000, Latency: 213.04us
+Distribution
+
+scenario 3
+Packet size: 102, Requests: 10, Latency: 89.23us
+Distribution
+Packet size: 102, Requests: 100, Latency: 83.62us
+Distribution
+Packet size: 102, Requests: 500, Latency: 95.26us
+Distribution
+Packet size: 102, Requests: 1000, Latency: 97.84us
+Distribution
+Packet size: 102, Requests: 2000, Latency: 94.1us
+Distribution
+Packet size: 102, Requests: 4000, Latency: 90.79us
+Distribution
+Packet size: 102, Requests: 6000, Latency: 90.75us
+Distribution
+Packet size: 102, Requests: 8000, Latency: 95.39us
+Distribution
+Packet size: 102, Requests: 10000, Latency: 95.57us
+Distribution
+Packet size: 10240, Requests: 10, Latency: 96.38us
+Distribution
+Packet size: 10240, Requests: 100, Latency: 96.79us
+Distribution
+Packet size: 10240, Requests: 500, Latency: 99.87us
+Distribution
+Packet size: 10240, Requests: 1000, Latency: 104.83us
+Distribution
+Packet size: 10240, Requests: 2000, Latency: 126.43us
+Distribution
+Packet size: 10240, Requests: 4000, Latency: 114.72us
+Distribution
+Packet size: 10240, Requests: 6000, Latency: 110.90us
+Distribution
+Packet size: 10240, Requests: 8000, Latency: 90.63us
+Distribution
+Packet size: 10240, Requests: 10000, Latency: 110.8us
+Distribution
+Packet size: 51200, Requests: 10, Latency: 105.87us
+Distribution
+Packet size: 51200, Requests: 100, Latency: 11605us
+Distribution
+Packet size: 51200, Requests: 500, Latency: 100.65us
+Distribution
+Packet size: 51200, Requests: 1000, Latency: 108.97us
+Distribution
+Packet size: 51200, Requests: 2000, Latency: 110.84us
+Distribution
+Packet size: 51200, Requests: 4000, Latency: 94.67us
+Distribution
+Packet size: 51200, Requests: 6000, Latency: 97.34us
+Distribution
+Packet size: 51200, Requests: 8000, Latency: 103.54us
+Distribution
+Packet size: 51200, Requests: 10000, Latency: 80.89us
+Distribution
+
